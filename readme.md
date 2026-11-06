@@ -1,4 +1,4 @@
-# 🛠 Developer Support Assistant — Capstone
+# 🛠 RAG System with Research Agent and MCP Connectors
 
 > An integrated AI assistant that combines documentation search, autonomous web research, and GitHub issue management into a single chat interface.  
 > Built as the final capstone of a 3-week AI Developer Internship assessment.
